@@ -4,7 +4,7 @@ Valentine is a beautifully structured web app, powered by modern frontend tools 
 
 ## 🌐 Live Project
 
-🔗 [Valentine](https://lovable.dev/projects/97b8990d-a451-435c-a6ec-3b73b0bdcb8b)
+🔗 [Valentine](https://meine-valentine.vercel.app/)
 
 ---
 
