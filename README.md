@@ -45,7 +45,7 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/Valentine.git
+git clone https://github.com/pvsaravanan/valentine.git
 cd Valentine
 ```
 ### Install dependencies
